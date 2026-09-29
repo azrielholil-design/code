@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'Times New Roman', sans-serif;
+    background-color:rgb(158, 182, 222);
+    color: rgb(0, 19, 82);
+    margin: 0;
+    padding: 20px;
+
+}
+
+p{
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+#main-header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+
+    padding: 40px 20px;
+    margin-bottom: 30px;
+    border-bottom: 5px solid red;
+
+}
+
+.info-box {
+    background-color: rgb(203, 203, 204);
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+    padding: 25px;
+    margin-bottom: 20px;
+    border: 2px solid rgb(39, 3, 222);
+    border-left: 8px solid darkblue
+}
+
+.highlight-text {
+   color:red;
+   font-weight: 700;
+   font-size: medium;
+   line-height: 25px;
+}
+
+
